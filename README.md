@@ -12,7 +12,7 @@
   <samp>
 
 - 😄 Pronouns: he / him 
-- 🔭 I’m currently student at <a href="https://www.microverse.org/">Microverse Inc</a>
+- 🔭 I’m currently student at <a href="https://www.microverse.org/">Microverse Inc</a> a school for Remote software developers.
 - 🌱 I’m currently learning <strong>React Js</strong>
 - 🔍 I’m looking for new opportunities
 - 💬 Ask me about <strong>Data Structures in JavaScript, Algorithms</strong>
