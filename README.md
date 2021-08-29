@@ -7,8 +7,22 @@
   <br>
 </p>
 <hr>
+<br>
+  <h3 align="center">Statistics</h3>
+  <div align="center">
+
+![Rachid Boudaoudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=benwmx&count_private=true&show_icons=true&theme=nightowl)
+<br>
+<br>
+<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=benwmx&theme=nightowl&hide_border=false)](https://git.io/streak-stats)
+<br>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benwmx&layout=compact&theme=nightowl)
+</div>
 <details>
-  <summary align="center"> <b> <samp>About Me</samp></b></summary>
+  <summary align="center"> <b> <samp>About Me </samp></b></summary>
   <samp>
 
 - 😄 Pronouns: he / him 
@@ -40,23 +54,8 @@
      <br>
     <br>
 </details>
-<details align="center" markdown="1">
-<br>
-<br>
-  <summary align="center"> <b> <samp>Statistics  (click to expand!)</samp></b></summary>
-  <div align="center">
 
-![Rachid Boudaoudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=benwmx&count_private=true&show_icons=true&theme=nightowl)
-<br>
-<br>
-<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=benwmx&theme=nightowl&hide_border=false)](https://git.io/streak-stats)
-<br>
-<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benwmx&layout=compact&theme=nightowl)
-</div>
-</details>
 
     
 ### 📫 Before you go you can reach Me:
