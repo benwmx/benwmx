@@ -15,7 +15,7 @@
 <br>
 <br>
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=benwmx&theme=nightowl&hide_border=false)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=benwmx&theme=nightowl&hide_border=false)
 <br>
 <br>
 
