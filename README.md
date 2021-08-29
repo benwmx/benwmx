@@ -8,19 +8,6 @@
 </p>
 <hr>
 <br>
-  <h3 align="center">Statistics</h3>
-  <div align="center">
-
-![Rachid Boudaoudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=benwmx&count_private=true&show_icons=true&theme=nightowl)
-<br>
-<br>
-<br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=benwmx&theme=nightowl&hide_border=false)
-<br>
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benwmx&layout=compact&theme=nightowl)
-</div>
 <details>
   <summary align="center"> <b> <samp>About Me </samp></b></summary>
   <samp>
@@ -57,14 +44,24 @@
     <br>
 </details>
 
+<br>
+  <h3 align="center">Statistics</h3>
+  <div align="center">
 
+![Rachid Boudaoudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=benwmx&count_private=true&show_icons=true&theme=nightowl)
+<br>
+<br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=benwmx&theme=nightowl&hide_border=false)
+<br>
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benwmx&layout=compact&theme=nightowl)
+</div>
 
-    
 ### 📫 Before you go you can reach me on:
+
 <br>
 <div align="center">
   <a href="mailto:rachidboudaoudi95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/rachid-boudaoudi-1621a0183/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/ben_wmx"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
-    
