@@ -24,6 +24,7 @@
 <details>
   <summary align="center"> <b> <samp>About Me </samp></b></summary>
   <samp>
+<br>
 
 - 😄 Pronouns: he / him 
 - 🔭 I’m currently student at <a href="https://www.microverse.org/">Microverse Inc</a> a school for Remote software developers.
@@ -32,6 +33,7 @@
 - 💬 Ask me about <strong>Data Structures in JavaScript, Algorithms</strong>
 - ⚡ Fun fact: I speak 3 languages including Berber 🇲🇦.
 
+<br>
   </samp>
 </details>
 <details>
@@ -59,6 +61,7 @@
 
     
 ### 📫 Before you go you can reach me on:
+<br>
 <div align="center">
   <a href="mailto:rachidboudaoudi95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/rachid-boudaoudi-1621a0183/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
