@@ -48,13 +48,13 @@
   <h3 align="center">Statistics</h3>
   <div align="center">
 
-![Rachid Boudaoudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=benwmx&count_private=true&show_icons=true&theme=nightowl)
+![Rachid Boudaoudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=benwmx&count_private=true&show_icons=true&theme=blue-green)
 <br>
 <br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=benwmx&theme=nightowl&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=benwmx&theme=blue-green&hide_border=false)
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benwmx&layout=compact&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benwmx&layout=compact&theme=blue-green)
 </div>
 
 ### 📫 Before you go you can reach me on:
