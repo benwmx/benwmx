@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <strong color="red">Rachid.</strong><br> I'm a Full-Stack Developer.<br><br></samp>
+  <samp>Hello there. I'm <strong>Rachid.</strong><br> I'm a Full-Stack Developer.<br><br></samp>
   <br>
   <br>
 </p>
