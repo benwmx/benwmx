@@ -1,11 +1,6 @@
-<p align="center">
-  <br>
-  <br>
-  <br>
-  <samp>Hello there. I'm <strong>Rachid.</strong><br> I'm a Full-Stack Developer.<br><br></samp>
-  <br>
-  <br>
-</p>
+![Blue and White Abstract Technology LinkedIn Banner](https://user-images.githubusercontent.com/60202444/136675277-27dd3837-bdae-4af3-9524-289ade3d149a.png)
+
+
 <hr>
 <br>
 <details>
