@@ -1,4 +1,4 @@
-![Blue and White Abstract Technology LinkedIn Banner](https://user-images.githubusercontent.com/60202444/136675277-27dd3837-bdae-4af3-9524-289ade3d149a.png)
+![linkden-banner](https://user-images.githubusercontent.com/60202444/141205625-2b236ff5-b8e3-4566-85bc-93d0a82a2616.gif)
 
 
 <hr>
