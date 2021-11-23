@@ -51,7 +51,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benwmx&layout=compact&theme=blue-green)
 </div>
 
-### 📫 Before you go you can reach me on:
+### 📫 Before you go you can reach me on :
 
 <br>
 <div align="center">
