@@ -39,7 +39,7 @@
 </details>
 
 <br>
-  <h3 align="center"><i><b> Statistics</b></i></h3>
+  <h3 align="center"><i><b> Statistics </b></i></h3>
   <div align="center">
 
 ![Rachid Boudaoudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=benwmx&count_private=true&show_icons=true&theme=blue-green)
