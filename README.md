@@ -13,7 +13,6 @@
 - 🌱 I’m currently learning <strong>Ruby</strong>
 - 🔍 I’m looking for new opportunities
 - 💬 Ask me about <strong>Data Structures and Algorithms in JavaScript. </strong>
-- ⚡ Fun fact: I speak 3 languages including Berber 🇲🇦.
 
 <br>
   </samp>
